@@ -1,6 +1,6 @@
 # Hi, I'm Stefan Condeescu
 
-**Junior Software Engineer | Java, Python, C++ | Backend, SQL, Data & Machine Learning**
+**Junior Software Engineer | Java, Python, C++, SAS | Backend, SQL, Data & Machine Learning**
 
 Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
