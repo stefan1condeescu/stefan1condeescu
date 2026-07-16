@@ -1,6 +1,6 @@
 # Hi, I'm Stefan Condeescu
 
-Final-year Economic Informatics student based in Bucharest, focused on Java, C++, Python, data analytics, machine learning, web applications, and database-backed systems.
+Recent Economic Informatics graduate based in Bucharest, focused on Java, C++, Python, data analytics, machine learning, web applications, and database-backed systems.
 
 I enjoy building practical software projects that combine data, clean application logic, and useful workflows. My current interests include machine learning, AI, web development, object-oriented software design, and relational database systems.
 
