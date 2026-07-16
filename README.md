@@ -1,6 +1,6 @@
 # Hi, I'm Stefan Condeescu
 
-Final-year Economic Informatics student based in Bucharest, focused on Python, data analytics, machine learning, web applications, and database-backed systems.
+Final-year Economic Informatics student based in Bucharest, focused on Java, C++, Python, data analytics, machine learning, web applications, and database-backed systems.
 
 I enjoy building practical software projects that combine data, clean application logic, and useful workflows. My current interests include machine learning, AI, web development, object-oriented software design, and relational database systems.
 
@@ -33,7 +33,7 @@ Bachelor thesis project built with Python, Streamlit, PostgreSQL, pandas, and sc
 
 It focuses on nutrition, activity, and weight tracking, with dashboard analytics, calorie balance, recommendation cards, and ML-based weight prediction.
 
-The repository is currently private while I prepare a cleaner public version with safe demo data, screenshots, and setup instructions.
+[View repository](https://github.com/stefan1condeescu/MacroSense)
 
 ### Global Freight Transport Analytics
 
@@ -71,6 +71,7 @@ Relevant coursework: Object-Oriented Programming, Java, Software Quality, GoF De
 
 - Oracle Academy - Database Design and Programming with SQL
 - Oracle Academy - Database Programming with PL/SQL
+- Cisco Networking Academy - JavaScript Essentials 1 & 2
 - IELTS Academic - Overall Band 8.0
 - Cambridge FCE - C1 level
 
