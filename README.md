@@ -1,71 +1,56 @@
 # Hi, I'm Stefan Condeescu
 
-Recent Economic Informatics graduate based in Bucharest, focused on Java, C++, Python, data analytics, machine learning, web applications, and database-backed systems.
+**Junior Software Engineer | Java, Python, C++ | Backend, SQL, Data & Machine Learning**
 
-I enjoy building practical software projects that combine data, clean application logic, and useful workflows. My current interests include machine learning, AI, web development, object-oriented software design, and relational database systems.
+Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
-## What I'm focused on
+## Profile
 
-- Python applications for data, analytics, automation, and ML prototypes
-- Machine learning, feature engineering, and model evaluation
-- SQL, PL/SQL, and relational database design
-- Web application development with REST APIs, JWT authentication, and backend/frontend integration
-- API testing and workflow validation with Postman
-- Object-oriented software design in Java, including UML, BPMN, and GoF design patterns
-- AI agents and LLM-based workflows through the Hugging Face AI Agents course
+- Recent graduate of the Faculty of Economic Cybernetics, Statistics and Computer Science in Bucharest
+- Project-based Python internship working with SQLite, JSON, telemetry validation, anomaly detection, and CSV reporting
+- Portfolio spanning backend and web development, PostgreSQL and Oracle databases, analytics dashboards, and applied machine learning
 
 ## Tech stack
 
-**Languages:** Python, Java, C/C++, SQL, PL/SQL, SAS, JavaScript  
-**Data & ML:** pandas, NumPy, scikit-learn, statsmodels, Streamlit, Plotly, Altair  
-**Databases:** PostgreSQL, Oracle SQL, SQLite  
-**Web & APIs:** Node.js, Express, React basics, Vite, REST APIs, JWT, Postman  
-**Testing:** unittest, JUnit, API testing with Postman  
-**Developer tools:** Git, GitHub, VS Code, IntelliJ IDEA, PyCharm, Visual Studio, Eclipse, npm  
-**Deployment & environment:** Render, Docker, venv, pip, requirements.txt  
-**Modeling & design:** UML, BPMN, object-oriented design, GoF design patterns
+**Languages:** Java, Python, C/C++, SQL, PL/SQL, SAS, JavaScript<br>
+**Backend, web & APIs:** Node.js, Express, React, Vite, REST APIs, JWT, Postman<br>
+**Databases:** PostgreSQL, Oracle SQL, SQLite<br>
+**Data & ML:** pandas, NumPy, scikit-learn, statsmodels, Streamlit, Plotly<br>
+**Engineering:** Git, Docker, Render, unittest, JUnit, UML, BPMN, GoF design patterns
 
 ## Featured projects
 
-### MacroSense
+### [MacroSense](https://github.com/stefan1condeescu/MacroSense)
 
-Bachelor thesis project built with Python, Streamlit, PostgreSQL, pandas, and scikit-learn.
+Python, Streamlit, PostgreSQL, pandas, scikit-learn
 
-It focuses on nutrition, activity, and weight tracking, with dashboard analytics, calorie balance, recommendation cards, and ML-based weight prediction.
+Bachelor's thesis application for nutrition, activity, and weight tracking, with analytics dashboards, a What-if simulator, automated tests, and machine learning weight predictions.
 
-[View repository](https://github.com/stefan1condeescu/MacroSense)
+### [PresenceBoard](https://github.com/stefan1condeescu/presenceboard-attendance)
 
-### Global Freight Transport Analytics
+React, Node.js, Express, Sequelize, PostgreSQL, JWT
 
-Streamlit dashboard for exploring global air and rail freight patterns.
+Full-stack QR attendance platform with organizer authentication, recurring events, duplicate protection, live attendance views, and CSV export.
 
-Includes data cleaning, preprocessing, missing-value handling, outlier detection, interactive visualizations, K-Means clustering, linear regression, and logistic regression.
+### [Oracle Maritime Transport DBMS](https://github.com/stefan1condeescu/oracle-maritime-transport-dbms)
 
-[View repository](https://github.com/stefan1condeescu/global-freight-transport-analytics)
+Oracle SQL, PL/SQL, relational modeling, triggers, packages
 
-### Oracle Maritime Transport DBMS
+Database project with constraints, queries, views, procedures, packages, capacity validation triggers, and audit logging.
 
-Oracle SQL and PL/SQL project for a maritime passenger transport database.
+### [Global Freight Transport Analytics](https://github.com/stefan1condeescu/global-freight-transport-analytics)
 
-Includes relational schema design, constraints, representative SQL queries, views, indexes, PL/SQL procedures/functions, packages, triggers, and audit logging.
+Python, Streamlit, pandas, Plotly, scikit-learn
 
-[View repository](https://github.com/stefan1condeescu/oracle-maritime-transport-dbms)
-
-### PresenceBoard
-
-Full-stack QR-based attendance tracker for classes, workshops, and recurring sessions.
-
-Built with React, Express, Sequelize, SQLite/PostgreSQL, JWT authentication, QR check-in, duplicate protection, and CSV export.
-
-[View repository](https://github.com/stefan1condeescu/presenceboard-attendance)
+Analytics dashboard covering data preparation, interactive visualizations, outlier detection, clustering, and regression models.
 
 ## Education
 
-**BSc in Economic Informatics**  
-Faculty of Cybernetics, Statistics and Economic Informatics, Bucharest  
-2023 - 2026
+**Bachelor's Degree in Economic Informatics**<br>
+Faculty of Economic Cybernetics, Statistics and Computer Science<br>
+Bucharest University of Economic Studies | Sep 2023 - Jul 2026
 
-Relevant coursework: Object-Oriented Programming, Java, Software Quality, GoF Design Patterns, Databases, Data Structures, Web Technologies, Statistics.
+Technical focus: software engineering, databases, data analysis, and machine learning.
 
 ## Certifications & languages
 
@@ -77,14 +62,7 @@ Relevant coursework: Object-Oriented Programming, Java, Software Quality, GoF De
 
 **Languages:** Romanian native, English advanced
 
-## Currently improving
-
-- Full-stack web development through more complete project workflows
-- AI agents and LLM application patterns through the Hugging Face AI Agents course
-- Cleaner software architecture and system design fundamentals
-- Production-ready documentation, testing, and deployment habits
-
 ## Contact
 
 - Email: stefan.condeescu@gmail.com
-- GitHub: [stefan1condeescu](https://github.com/stefan1condeescu)
+- LinkedIn: [linkedin.com/in/stefan-condeescu](https://www.linkedin.com/in/stefan-condeescu)
