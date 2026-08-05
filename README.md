@@ -1,18 +1,19 @@
 # Hi, I'm Stefan Condeescu
 
-**Junior Software Engineer | Java, Python, C++, SAS | Backend, SQL, Data & Machine Learning**
+**Junior Software Engineer | Java, Python & SQL | Backend, Data & Machine Learning | Incoming Master's in Database Systems**
 
 Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
 ## Profile
 
-- Recent graduate of the Faculty of Economic Cybernetics, Statistics and Computer Science in Bucharest
+- Recent Economic Informatics graduate from the Faculty of Economic Cybernetics, Statistics and Computer Science in Bucharest
+- Incoming Master's student in Database Systems for Business, starting September 2026
 - Project-based Python internship working with SQLite, JSON, telemetry validation, anomaly detection, and CSV reporting
 - Portfolio spanning backend and web development, PostgreSQL and Oracle databases, analytics dashboards, and applied machine learning
 
 ## Tech stack
 
-**Languages:** Java, Python, C/C++, SQL, PL/SQL, SAS, JavaScript<br>
+**Languages:** Java, Python, C/C++, SQL, PL/SQL, SAS, JavaScript, Bash<br>
 **Backend, web & APIs:** Node.js, Express, React, Vite, REST APIs, JWT, Postman<br>
 **Databases:** PostgreSQL, Oracle SQL, SQLite<br>
 **Data & ML:** pandas, NumPy, scikit-learn, statsmodels, Streamlit, Plotly<br>
@@ -45,6 +46,10 @@ Python, Streamlit, pandas, Plotly, scikit-learn
 Analytics dashboard covering data preparation, interactive visualizations, outlier detection, clustering, and regression models.
 
 ## Education
+
+**Incoming Master's Degree in Database Systems for Business (BDSA)**<br>
+Faculty of Economic Cybernetics, Statistics and Computer Science<br>
+Bucharest University of Economic Studies | Sep 2026 - Jul 2028 (expected)
 
 **Bachelor's Degree in Economic Informatics**<br>
 Faculty of Economic Cybernetics, Statistics and Computer Science<br>
