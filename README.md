@@ -1,15 +1,34 @@
 # Hi, I'm Stefan Condeescu
 
-**Junior Software Engineer | Java, Python & SQL | Backend, Data & Machine Learning | Incoming Master's in Database Systems**
+**Junior Software Engineer | Java, Python & SQL | Backend, Data & Machine Learning | Master's Student in Database Systems**
 
 Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
+Open to junior roles and internship opportunities.
+
 ## Profile
 
-- Recent Economic Informatics graduate from the Faculty of Economic Cybernetics, Statistics and Computer Science in Bucharest
-- Incoming Master's student in Database Systems for Business, starting September 2026
-- Project-based Python internship working with SQLite, JSON, telemetry validation, anomaly detection, and CSV reporting
-- Portfolio spanning backend and web development, PostgreSQL and Oracle databases, analytics dashboards, and applied machine learning
+- Economic Informatics graduate from the Faculty of Economic Cybernetics, Statistics and Computer Science in Bucharest
+- Master's student in Database Systems for Business
+- Practical experience with Python, SQL, databases, data validation, and automated testing
+- Recently contributed to the open-source Frictionless project
+- Portfolio spanning backend and web development, relational databases, analytics dashboards, and applied machine learning
+
+## Experience
+
+### Python Internship — Project-based
+
+**Python, SQLite, JSON, CSV**
+
+Worked with a SQLite database containing millions of IoT records collected from smart waste bins. I used Python to parse JSON data, convert timestamps, validate readings, identify unusual values and missing intervals, and generate CSV reports.
+
+This was also where I became much more confident using Python in practice. I learned how to clarify tasks, research problems independently before asking for help, communicate regularly with my tutor, and improve working solutions through review.
+
+### Accounting Internship
+
+**SAGA**
+
+Worked with SAGA accounting software and gained practical experience with real business and accounting workflows. This also gave me a better understanding of how people use specialised software in their day-to-day work.
 
 ## Tech stack
 
@@ -25,7 +44,7 @@ Based in Bucharest, Romania. I build practical software and data projects that c
 
 Python, Streamlit, PostgreSQL, pandas, scikit-learn
 
-Bachelor's thesis application for nutrition, activity, and weight tracking, with analytics dashboards, a What-if simulator, automated tests, and machine learning weight predictions.
+Personal application for nutrition, activity, and weight tracking, with analytics dashboards, a What-if simulator, automated tests, and machine learning weight predictions.
 
 ### [PresenceBoard](https://github.com/stefan1condeescu/presenceboard-attendance)
 
@@ -55,7 +74,7 @@ Contributed a bug fix for schema/header mismatches that prevented redundant cell
 
 ## Education
 
-**Incoming Master's Degree in Database Systems for Business (BDSA)**<br>
+**Master's Degree in Database Systems for Business (BDSA)**<br>
 Faculty of Economic Cybernetics, Statistics and Computer Science<br>
 Bucharest University of Economic Studies | Sep 2026 - Jul 2028 (expected)
 
