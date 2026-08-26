@@ -45,6 +45,14 @@ Python, Streamlit, pandas, Plotly, scikit-learn
 
 Analytics dashboard covering data preparation, interactive visualizations, outlier detection, clustering, and regression models.
 
+## Open source
+
+### [Frictionless](https://github.com/frictionlessdata/frictionless-py)
+
+Python, data validation, testing
+
+Contributed a bug fix for schema/header mismatches that prevented redundant cell errors during validation. Added regression tests for validation and analysis workflows. [Merged PR #1799](https://github.com/frictionlessdata/frictionless-py/pull/1799)
+
 ## Education
 
 **Incoming Master's Degree in Database Systems for Business (BDSA)**<br>
