@@ -4,7 +4,7 @@
 
 Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
-Open to junior roles and internship opportunities.
+Open to remote junior roles and internship opportunities.
 
 ## Profile
 
@@ -98,3 +98,4 @@ Technical focus: software engineering, databases, data analysis, and machine lea
 
 - Email: stefan.condeescu@gmail.com
 - LinkedIn: [linkedin.com/in/stefan-condeescu](https://www.linkedin.com/in/stefan-condeescu)
+- CV: [Junior Software Engineer](https://github.com/stefan1condeescu/cv/blob/main/Stefan_Condeescu_CV_Junior_Software_Engineer.pdf)
