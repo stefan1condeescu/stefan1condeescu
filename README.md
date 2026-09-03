@@ -4,7 +4,7 @@
 
 Based in Bucharest, Romania. I build practical software and data projects that combine application logic, relational databases, analytics, and machine learning.
 
-Open to remote junior roles and internship opportunities.
+Open to remote and hybrid junior roles and internship opportunities. Willing to relocated.
 
 ## Profile
 
