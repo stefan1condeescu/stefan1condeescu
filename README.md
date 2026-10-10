@@ -16,7 +16,7 @@ Open to remote and hybrid junior roles and internship opportunities. Willing to 
 
 ## Experience
 
-### Python Internship — Project-based
+### Python Internship 
 
 **Python, SQLite, JSON, CSV**
 
